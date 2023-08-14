@@ -3771,7 +3771,7 @@
 		@media screen and (max-width: 736px) {
 
 			#banner {
-				background-attachment: scroll;
+				/* background-attachment: scroll; */
 				min-height: 0;
 				padding: 8em 2em 4em 2em;
 			}
@@ -3858,7 +3858,7 @@
 		@media screen and (max-width: 736px) {
 
 			#post {
-				background-attachment: scroll;
+				/* background-attachment: scroll; */
 				background-size: cover;
 			}
 
@@ -4137,7 +4137,7 @@
 			.post {
 				/* min-height: 0; */
 				/* height: auto; */
-				background-attachment: scroll;
+				/* background-attachment: scroll; */
 			}
 
 				.post h2 {
